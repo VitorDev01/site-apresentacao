@@ -18,12 +18,12 @@
       
       #border {
               color: #fff;
-              background: url(https://vitordev01.github.io/pagina-comercial/eu3.jpg);
+              background: url(eu2.png);
               background-size: 150px 150px ;
               background-repeat: no-repeat;
               width:150px;
               height:150px;
-              border:solid 2px none;
+              border:solid 2px #fff;
               margin-left: auto;
               margin-right: auto;
               margin-top: 15%;
@@ -33,8 +33,8 @@
       .btn-1{
               margin: 5%;
               width: 90%;
-              border-radius: 4px;
-              border-color: blueviolet;
+              border-radius: 5px;
+              border: none;
               font-size: 25px;
               outline: none;
               text-align: center;
@@ -42,7 +42,16 @@
               background: radial-gradient(circle at 27.58% 41.84%, #7e5ae8 0, #4d42d4 50%, #002cc1 100%);
               position: relative;
               
-            }
+      }
+      
+      img {
+        width: 100px;
+        height: 100px;
+        display: inline;
+        margin-left: 155px;
+        margin-top: 142px;
+      }
+     
       .btn-1:hover {
            
            background:  radial-gradient(circle at 50.87% 51.87%, #3e9eff 0, #157be6 50%, #0059af 100%);
@@ -72,8 +81,16 @@
     <body>
        
        <div id="border">
-       </div>  
-   
+       <img src="aqua.png">
+      
+      
+       </div> 
+       <img src="es.png" style="margin: 15px;
+       width: 100px;
+       height: 100px;
+       margin-top: -200px;
+       display: inline;
+       ">
        <h1>Vitor Oliveira</h1>
        
        <hr>
@@ -85,6 +102,13 @@
        
        </button></a>
        <hr>
+       <a href=""><button class="btn-1">
+       
+       <p><strong><i class="fa fa-hospital" aria-hidden="true"></i>  Astrologia e a Saúde Mental</strong></p>
+       
+       </button></a>
+       <hr>
+       
        <a href="https://wa.me/5524992717594?text=Olá+Gostaria+De+Saber+Mais+Sobre+A+Leitura+Do+Meu+Mapa+Pessoal+De+2023"><button class="btn-1">
        <p><strong><i class="fa fa-map" aria-hidden="true"></i>  Leitura Do Mapa Pessoal 2023</strong></p>
        

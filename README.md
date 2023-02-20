@@ -8,7 +8,8 @@
     
     <title></title>
     <style> 
-      @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+ 
 
       body { 
               /*Largura da página*/
@@ -18,11 +19,11 @@
       
       #border {
               color: #fff;
-              background: url(eu2.png);
-              background-size: 150px 150px ;
+              background: url(https://vitordev01.github.io/pagina-comercial/eu3.jpg);
+              background-size: 170px 170px ;
               background-repeat: no-repeat;
-              width:150px;
-              height:150px;
+              width:155px;
+              height:155px;
               border:solid 2px #fff;
               margin-left: auto;
               margin-right: auto;
@@ -48,28 +49,32 @@
         width: 90px;
         height: 100px;
         display: inline;
-        margin-left: 155px;
-        margin-top: 142px;
+        margin-left: 165px;
+        margin-top: 245px;
       }
      
       .btn-1:hover {
            
-           background:  radial-gradient(circle at 50.87% 51.87%, #3e9eff 0, #157be6 50%, #0059af 100%);
+           background:  radial-gradient(circle at 80.42% 6.56%, #ff6ecd 0, #fc63d3 12.5%, #e658da 25%, #cc4fe0 37.5%, #ab48e5 50%, #8144ea 62.5%, #3f45ef 75%, #0047f4 87.5%, #004af7 100%); 
            
            transition-duration: 50s;
       }
         
       h1 {
               color: #fff;
-              font: 400 30px/1.6 "Source Sans Pro",sans-serif;
+              font-size: 25px;
+              letter-spacing: 5px;
               text-align: center;
+              font-family: 'Gloock', serif;
       }
      
       p {
               
               color: #fff;
+              font-size: 17px;
+              letter-spacing: 2px;
               text-align: center;
-              font: 500 20px/1.6 "Source Sans Pro",sans-serif;
+              font-family: 'Gloock', serif;
       } 
       
       hr {
@@ -92,9 +97,9 @@
        display: inline;
        ">
        <h1>Vitor Oliveira</h1>
-       
+       <p>♈♉♊♋♌♍♎♏♐♑♒♓</p>
        <hr>
-       <p><i class="fa fa-star" aria-hidden="true"></i> | Astrologia & Tarot |  <i class="fa fa-headset" aria-hidden="true"></i></p>
+       <p> | Astrologia & Tarot |   </p>
        <hr>
        <a href="https://vitordev01.netlify.app/?fbclid=PAAabuJGBRlbnt0_ufx4HxXIgGYVpukSn6KGreKbt0Uo8g1FIQOiVgSz7KCbM"><button class="btn-1">
        
@@ -133,6 +138,8 @@
        <p><strong><i class="fa fa-book" aria-hidden="true"></i>  Blog Pessoal</strong></p>
        
        </button></a>
+       <hr>
+       <p>☉ ☽ ☿ ♀ ⊕ ♁ ♂ ♃ ♄ ♅ ⛢ ♆ ♇</p>
        <hr>
        <br>
        <p>©Vitor Oliveira 2023 - GitHub Pages</p> 

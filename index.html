@@ -45,7 +45,7 @@
       }
       
       img {
-        width: 100px;
+        width: 90px;
         height: 100px;
         display: inline;
         margin-left: 155px;

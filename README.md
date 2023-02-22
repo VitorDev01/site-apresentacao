@@ -14,7 +14,7 @@
       body { 
               /*Largura da página*/
               min-height: 100vh;
-              background-image: radial-gradient(circle at 27.58% 41.84%, #7e5ae8 0, #4d42d4 50%, #002cc1 100%);
+              background-color: #168AAD;
       }
       
       #border {
@@ -40,7 +40,7 @@
               outline: none;
               text-align: center;
               line-height: 50px;
-              background: radial-gradient(circle at 27.58% 41.84%, #7e5ae8 0, #4d42d4 50%, #002cc1 100%);
+              background: radial-gradient(circle at 75.57% 35.24%, #76C893 0, #1d8eda 0%, #52B69A 100%);
               position: relative;
               
       }
@@ -55,7 +55,7 @@
      
       .btn-1:hover {
            
-           background:  radial-gradient(circle at 80.42% 6.56%, #ff6ecd 0, #fc63d3 12.5%, #e658da 25%, #cc4fe0 37.5%, #ab48e5 50%, #8144ea 62.5%, #3f45ef 75%, #0047f4 87.5%, #004af7 100%); 
+           background:  radial-gradient(circle at 75.57% 35.24%, #52B69A 0, #52B69A 0%, #76C893 100%);
            
            transition-duration: 50s;
       }

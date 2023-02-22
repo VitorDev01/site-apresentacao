@@ -134,7 +134,7 @@
        
        </button></a>
        <hr>
-       <a href="https://vitordev01.github.io/blog-pagina-raiz/"><button class="btn-1">
+       <a href="https://blogoficialvitoroliveira.netlify.app/"><button class="btn-1">
        <p><strong><i class="fa fa-book" aria-hidden="true"></i>  Blog Pessoal</strong></p>
        
        </button></a>

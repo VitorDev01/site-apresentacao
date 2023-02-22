@@ -1,0 +1,73 @@
+      @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+ 
+
+      body { 
+              /*Largura da página*/
+              min-height: 100vh;
+              background-color: #168AAD;
+      }
+      
+      #border {
+              color: #fff;
+              background: url(https://vitordev01.github.io/pagina-comercial/eu3.jpg);
+              background-size: 170px 170px ;
+              background-repeat: no-repeat;
+              width:155px;
+              height:155px;
+              border:solid 2px #fff;
+              margin-left: auto;
+              margin-right: auto;
+              margin-top: 15%;
+              border-radius: 0px 20px 0px 20px;
+      }
+      
+      .btn-1{
+              margin: 5%;
+              width: 90%;
+              border-radius: 5px;
+              border: none;
+              font-size: 25px;
+              outline: none;
+              text-align: center;
+              line-height: 50px;
+              background: radial-gradient(circle at 75.57% 35.24%, #76C893 0, #1d8eda 0%, #52B69A 100%);
+              position: relative;
+              
+      }
+      
+      img {
+            width: 90px;
+            height: 100px;
+            display: inline;
+            margin-left: 165px;
+            margin-top: 245px;
+      }
+     
+      .btn-1:hover {
+           
+           background:  radial-gradient(circle at 75.57% 35.24%, #52B69A 0, #52B69A 0%, #76C893 100%);
+           
+           transition-duration: 50s;
+      }
+        
+      h1 {
+           color: #fff;
+           font-size: 25px;
+           letter-spacing: 5px;
+           text-align: center;
+           font-family: 'Gloock', serif;
+      }
+     
+      p {
+              
+           color: #fff;
+           font-size: 17px;
+           letter-spacing: 2px;
+           text-align: center;
+           font-family: 'Gloock', serif;
+      } 
+      
+      hr {
+           background-color: #fff;
+           width: 90%;
+      }

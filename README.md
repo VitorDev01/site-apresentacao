@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/js/swiffy-slider.min.js" crossorigin="anonymous" defer></script>
     <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
     
     <title></title>
@@ -90,7 +89,7 @@
       
       
        </div> 
-       <img src="es.png" style="margin: 15px;
+       <img src="peixes.png" style="margin: 10px;
        width: 100px;
        height: 100px;
        margin-top: -200px;
@@ -134,7 +133,7 @@
        
        </button></a>
        <hr>
-       <a href="https://blogoficialvitoroliveira.netlify.app/"><button class="btn-1">
+       <a href="https://vitordev01.github.io/blog-pagina-raiz/"><button class="btn-1">
        <p><strong><i class="fa fa-book" aria-hidden="true"></i>  Blog Pessoal</strong></p>
        
        </button></a>

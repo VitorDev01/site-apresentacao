@@ -12,7 +12,7 @@
               /*Largura da página*/
               min-height: 100vh;
             /*  background-color: #168AAD;*/
-            background: url(fu.jpg) fixed;
+            background: url(fun.jpg) fixed;
             background-size: 100% 100%;
             background-repeat: no-repeat;
       }

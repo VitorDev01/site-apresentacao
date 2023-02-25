@@ -3,8 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
-    
     <title></title>
     <style> 
       @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
@@ -13,7 +11,10 @@
       body { 
               /*Largura da página*/
               min-height: 100vh;
-              background-color: #168AAD;
+            /*  background-color: #168AAD;*/
+            background: url(fu.jpg) fixed;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
       }
       
       #border {
@@ -39,24 +40,22 @@
               outline: none;
               text-align: center;
               line-height: 50px;
-              background: radial-gradient(circle at 75.57% 35.24%, #76C893 0, #1d8eda 0%, #52B69A 100%);
+              background:  rgba(255, 255, 255, .15);
               position: relative;
               
       }
+      
+      .btn-1:hover {
+        border: solid 2px #fff;
+      }
+      
       
       img {
         width: 90px;
         height: 100px;
         display: inline;
         margin-left: 165px;
-        margin-top: 245px;
-      }
-     
-      .btn-1:hover {
-           
-           background:  radial-gradient(circle at 75.57% 35.24%, #52B69A 0, #52B69A 0%, #76C893 100%);
-           
-           transition-duration: 50s;
+        margin-top: 370px;
       }
         
       h1 {
@@ -79,6 +78,7 @@
       hr {
         background-color: #fff;
         width: 90%;
+        border-radius: 100%;
       }
     
     </style>
@@ -105,35 +105,35 @@
        <p><strong><i class="fa fa-user" aria-hidden="true"></i>  Sobre Mim</strong></p>
        
        </button></a>
-       <hr>
-       <a href=""><button class="btn-1">
        
-       <p><strong><i class="fa fa-hospital" aria-hidden="true"></i>  Astrologia e a Saúde Mental</strong></p>
+       <a href="https://youtube.com/@FalandoDeAstrologia8"><button class="btn-1">
+       
+       <p><strong><i class="fa fa-video" aria-hidden="true"></i> Canal Falando De Astrologia </strong></p>
        
        </button></a>
-       <hr>
+       
        
        <a href="https://wa.me/5524992717594?text=Olá+Gostaria+De+Saber+Mais+Sobre+A+Leitura+Do+Meu+Mapa+Pessoal+De+2023"><button class="btn-1">
        <p><strong><i class="fa fa-map" aria-hidden="true"></i>  Leitura Do Mapa Pessoal 2023</strong></p>
        
        </button></a>
-       <hr>
+       
        <a href="https://wa.me/5524992717594?text=Olá+Gostaria+De+Saber+Mais+Sobre+A+Leitura+Do+Meu+Mapa+De+Nascimento"><button class="btn-1">
        <p><strong><i class="fa fa-child" aria-hidden="true"></i>  Leitura Do Mapa De Nascimento</strong></p>
        
        </button></a>
-       <hr>
+       
        <a href="https://wa.me/5524992717594?text=Olá+Gostaria+De+Saber+Mais+Sobre+As+Consultas+Online"><button class="btn-1">
        <p><strong><i class="fa fa-headset" aria-hidden="true"></i>  Consulta De Tarot Online</strong></p>
        
        </button></a>
-       <hr>
+       
        <a href="https://www.instagram.com/vitorkw89/"><button class="btn-1">
        <p><strong><i class="fa fa-heart" aria-hidden="true"></i>  Instagram </strong></p>
        
        </button></a>
-       <hr>
-       <a href="https://vitordev01.github.io/blog-pagina-raiz/"><button class="btn-1">
+      
+       <a href=""><button class="btn-1">
        <p><strong><i class="fa fa-book" aria-hidden="true"></i>  Blog Pessoal</strong></p>
        
        </button></a>

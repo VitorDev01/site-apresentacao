@@ -106,9 +106,9 @@
        
        </button></a>
        
-       <a href="https://youtube.com/@FalandoDeAstrologia8"><button class="btn-1">
+       <a href="https://vitordev01.github.io/pagina-asteologia-saudemental/"><button class="btn-1">
        
-       <p><strong><i class="fa fa-video" aria-hidden="true"></i> Canal Falando De Astrologia </strong></p>
+       <p><strong><i class="fa fa-video" aria-hidden="true"></i> Astrologia E A Geração Z </strong></p>
        
        </button></a>
        
